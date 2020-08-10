@@ -10,6 +10,8 @@ namespace Github1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Helo Word");
+            Console.ReadLine();
         }
     }
 }
